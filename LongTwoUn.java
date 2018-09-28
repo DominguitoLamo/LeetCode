@@ -25,6 +25,7 @@ public class LongTwoUn{
 					j = i - helper(str);
 				}
 			}
+			return s.substring(m,n+1);
 		}
 	}
 	
