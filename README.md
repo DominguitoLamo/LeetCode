@@ -16,4 +16,10 @@ As one shortest transformation is "hit" ->"hot" ->"dot" ->"dog" ->"cog", the pro
 Note: Return 0 if there is no such transformation sequence. All words have the same length. All words contain only lowercase alphabetic characters.
 This problem is a classic problem that has been asked frequently during interviews.
 
-  The following are two Java solutions.
+
+Longest Substring Which Contains 2 Unique Characters
+
+This is a problem asked by Google.
+35.1 Problem
+Given a string, find the longest substring that contains only two unique characters. For example, given "abcbbbbcccbdddadacb", the longest substring that contains 2 unique character is "bcbbbbcccb".
+
